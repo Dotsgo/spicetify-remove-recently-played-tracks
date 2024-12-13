@@ -37,4 +37,4 @@ This will only work on playlists you own.
 
 The recently played tracks list is per the Web API endpoint linked above. The results seem to differ from both the list you can see in the Spotify desktop app and the one on mobile, which seem to differ from each other as well...
 
-To see the list of recently played tracks referenced, you can open the console by pressing ctrl+shift+i in Spicetify after opening a terminal and running: spicetify enable-devtools. You can also use this other Spicetify extension to make a playlist of the tracks: https://github.com/Gomeschian/spicetify-playlist-from-recently-played-tracks
+To see the list of recently played tracks referenced, you can open the console by pressing ctrl+shift+i in Spicetify after opening a terminal and running: spicetify enable-devtools. You can also use this other Spicetify extension to make a playlist of the tracks: https://github.com/Dotsgo/spicetify-playlist-from-recently-played-tracks
